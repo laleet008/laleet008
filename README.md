@@ -11,6 +11,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laleet008&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=lalitpuri08)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
