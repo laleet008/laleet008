@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Next JS<br>🤝 I’m looking for help with Backend/Database<br>🌱 I’m currently learning Node JS<br>💬 Ask me about Front End<br> 📫 How to reach me **laleetpuree5768@gmail.com** <br>
+🔭 I’m currently working on Next JS<br>🤝 I’m looking for help with Backend/Database<br>🌱 I’m currently learning Node JS<br>💬 Ask me about Front End<br> 📫 How to reach me **laleetpuree5768@gmail.com** <br> 
 
 
 ## 🌐 Socials:
