@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laleet008&theme=dark&hide_border=false)   <span style="margin-left: 20px; ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laleet008&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laleet008&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </span>
 
 
