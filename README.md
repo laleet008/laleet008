@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Next JS<br>🤝 I’m looking for help with Backend/Database<br>🌱 I’m currently learning Node JS<br>💬 Ask me about Front End<br> 📫 How to reach me **laleetpuree5768@gmail.com** <br> 
+🔭 I’m currently working on: <b> Next JS </b> <br>🤝 I’m looking for help with: <b> Backend/Database </b> <br>🌱 I’m currently learning: <b> Node JS </b><br>💬 Ask me about: <b>Front End</b><br> ⚡ What Excite me: <b> Astronomy, Human Psychology, Football </b> 📫 How to reach me **laleetpuree5768@gmail.com** <br> 
 
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/laleetpuree) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laleet_iam8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laleet08) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lalitpuri08) 
