@@ -10,9 +10,6 @@
 ## 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laleet008&theme=dark&hide_border=false" alt="Streak Stats" style="height: 200px; margin-right: 10px;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laleet008&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; margin-left: 10px;" />
-
-
 
 
 
